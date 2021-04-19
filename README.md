@@ -21,5 +21,5 @@ probebly will be upgrade later...
 
 
 ## TODO:
-1. bind with GUI
-2. making declaration much easier and clear
+1. making declaration much easier and clear
+2. bind with GUI
