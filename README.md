@@ -4,13 +4,11 @@ It is very useful for preparing data set of machine learning.
   <body>
     <blockquote class="part" data-startline="4" data-endline="5">
 <p data-position="19" data-size="0"><small data-position="19" data-size="48"><i class="fa fa-user"></i> LaZoark <i class="fa fa-clock-o"></i> Mon, Apr 19, 2021 12:36 PM</small></p>
-<p>It is able to split data(including <strong><code>.xml</code></strong> and <code>.jpg</code>) with specific ratio into <code>Train</code> folder and <code>Test</code> folder.</p>
 </blockquote>
   </body>
 </html>
 
-<!-- It is able to split data(including **`.xml`** and `.jpg`) with specific ratio into `Train` folder and `Test` folder. -->
-
+It is able to split data(including **`.xml`** and `.jpg`) with specific ratio into `Train` folder and `Test` folder.
 
 ## Preview 
 ▼ How it looks like 
