@@ -1,5 +1,4 @@
 # AutoSplit_train_test
-It is very useful for preparing data set of machine learning.
 <html>
   <body>
     <blockquote class="part" data-startline="4" data-endline="5">
@@ -7,6 +6,8 @@ It is very useful for preparing data set of machine learning.
 </blockquote>
   </body>
 </html>
+
+It is very useful for preparing data set of machine learning.
 
 It is able to split data(including **`.xml`** and `.jpg`) with specific ratio into `Train` folder and `Test` folder.
 
