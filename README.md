@@ -13,7 +13,8 @@ It is able to split data(including **`.xml`** and `.jpg`) with specific ratio in
 
 ## Preview 
 ▼ How it looks like   
-![preview](https://user-images.githubusercontent.com/25290627/115181554-cb732d00-a10a-11eb-9e7a-ab13894fa8f4.png)  
+<!-- ![preview](https://user-images.githubusercontent.com/25290627/115181554-cb732d00-a10a-11eb-9e7a-ab13894fa8f4.png)   -->
+![preview_improvement](https://user-images.githubusercontent.com/25290627/115434092-ddec8400-a23a-11eb-8ca8-fe2ed2058faf.png)  
 ▼ When there are already some file, it will raise a warning
 ![preview_warning](https://user-images.githubusercontent.com/25290627/115181556-cca45a00-a10a-11eb-922d-612929951f5b.png)  
 
@@ -21,5 +22,5 @@ probebly will be upgrade later...
 
 
 ## TODO:
-1. making declaration much easier and clear
+☑️1. making declaration much easier and clear  
 2. bind with GUI
