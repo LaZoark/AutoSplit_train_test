@@ -10,14 +10,13 @@ from os.path import join
 # file_type = '.xml'
 if __name__ == '__main__':
     from sys import argv
-    print(len(argv))
     if len(argv) != 5:
         exit('[ERROR] requiring <root_dir> <data_folder_name> <train_folder_name> <test_folder_name>')
     root_dir = argv[1]  # data root path. Dir that contain all class of folder
     src = join(root_dir, argv[2])
     train_path = join(root_dir, argv[3])
     test_path = join(root_dir, argv[4])
-    
+
 print("Your config, please check:")
 print("root_path  = %s" %root_dir)
 print("data_path  = %s" %src)
