@@ -2,7 +2,7 @@ import os
 import numpy as np
 import shutil
 from alive_progress import alive_bar
-from sys import exit
+from sys import exit,argv
 import glob
 # import warnings
 # warnings.simplefilter('error', UserWarning)
@@ -70,3 +70,6 @@ with alive_bar(len(items),"Splitting to 'test' folder") as bar:
         bar()
         
 print("Copying Done!")
+
+if __name__ == '__main__':
+    pass
